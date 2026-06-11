@@ -7,7 +7,7 @@ const highlights = [
   "Especialista em dor lombar e hérnia de disco",
   "Emagrecimento com base científica",
   "Atendimento individualizado em Suzano/SP",
-  "Mais de 500 alunos transformados",
+  "Mais de 100 alunos transformados",
 ];
 
 export function HeroSection() {
@@ -65,7 +65,7 @@ export function HeroSection() {
 
             <div className="flex items-center gap-6 mt-10 pt-8 border-t border-dark-700">
               <div className="text-center">
-                <p className="text-3xl font-display font-bold text-white">500+</p>
+                <p className="text-3xl font-display font-bold text-white">100+</p>
                 <p className="text-xs text-dark-400 mt-1">Alunos atendidos</p>
               </div>
               <div className="w-px h-12 bg-dark-700" />
