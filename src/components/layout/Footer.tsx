@@ -111,7 +111,7 @@ export function Footer() {
               <li className="flex gap-3">
                 <Phone className="w-5 h-5 text-primary-500 shrink-0" />
                 <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer" className="text-sm text-dark-400 hover:text-primary-400 transition-colors">
-                  (11) 9 9999-9999
+                  (11) 9 7597-2038
                 </a>
               </li>
               <li className="flex gap-3">
