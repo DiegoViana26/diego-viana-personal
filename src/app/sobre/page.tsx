@@ -67,6 +67,20 @@ export default function SobrePage() {
         </div>
       </section>
 
+      <section className="py-16 bg-dark-50">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex justify-center">
+            <Image
+              src="/quem-sou-eu.jpg"
+              alt="Quem sou eu – Diego Viana Personal Trainer"
+              width={500}
+              height={500}
+              className="rounded-2xl shadow-lg w-full max-w-sm"
+            />
+          </div>
+        </div>
+      </section>
+
       <section className="py-20 bg-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl font-display font-bold text-dark-900 mb-6">Minha História</h2>
